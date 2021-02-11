@@ -1,3 +1,4 @@
+*.txt
+*.sql
 *.class
 *.py
-*.sql
